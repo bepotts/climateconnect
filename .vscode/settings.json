@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/b94e13b1-c9ed-48e7-908d-803d6fbbaf93/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/climateconnect-frontend",
+  "appService.deploySubpath": "."
+}
